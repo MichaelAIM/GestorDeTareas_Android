@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TaskMaster</string>
+    <string name="title_activity_main">TaskMaster - Principal</string>
+    <string name="welcome_to_taskmaster">¡Bienvenido a TaskMaster!</string>
+    <string name="organize_your_tasks">Organiza tus tareas eficientemente.</string>
+    <string name="add_task">Agregar Tarea</string>
+    <string name="task_name_hint">Nombre de la tarea</string>
+    <string name="task_completed">Tarea completada</string>
+    <string name="priority">Prioridad:</string>
+    <string name="high">Alta</string>
+    <string name="medium">Media</string>
+    <string name="low">Baja</string>
+    <string name="project_progress">Progreso del Proyecto:</string>
+    <string name="rate_this_app">Califica esta app:</string>
+    <string name="task_category">Categoría de Tarea:</string>
+    <string name="my_tasks">Mis Tareas</string>
+    <string name="sample_task_1_title">Comprar víveres</string>
+    <string name="sample_task_1_category">Personal</string>
+    <string name="sample_task_2_title">Preparar informe semanal</string>
+    <string name="sample_task_2_category">Trabajo</string>
+    <string name="sample_task_3_title">Estudiar para examen</string>
+    <string name="sample_task_3_category">Estudio</string>
+    <string name="table_header_feature">Nombre de Tarea:</string>
+    <string name="table_header_status">Estado</string>
+    <string name="feature_ui_design">Diseño UI</string>
+    <string name="status_in_progress">En Progreso</string>
+    <string name="feature_backend">Lógica Backend</string>
+    <string name="status_pending">Pendiente</string>
+    <string name="logo_description">Logo de TaskMaster</string>
+    <string name="decorative_image_description">Imagen decorativa</string>
+    <string name="card_view_example_title">Consejo Rápido:</string>
+    <string name="card_view_example_content">Mantén tus tareas organizadas para aumentar tu productividad diaria. ¡Usa las categorías y prioridades!</string>
+</resources>
