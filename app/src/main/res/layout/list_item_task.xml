@@ -60,7 +60,7 @@
             android:layout_width="32dp"
             android:layout_height="32dp"
             android:src="@android:drawable/ic_menu_delete"
-            android:tint="@color/dark_gray"
+            app:tint="@color/dark_gray"
             android:contentDescription="Eliminar tarea"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent"
